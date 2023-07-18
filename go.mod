@@ -1,4 +1,4 @@
-module github.com/jeusto/vscode-clean-open-history
+module github.com/jeusto/vscode-clean-recently-opened
 
 go 1.20
 
